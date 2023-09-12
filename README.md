@@ -16,7 +16,7 @@ A simple C++ program for simulating a download progress bar.
 ## Usage
 
 1. Enter the estimated download time in milliseconds.
-2. Observe the progress bar as it updates
+2. Observe the progress bar as it updates.
 
 ## Contributing
 
